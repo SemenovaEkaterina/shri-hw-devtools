@@ -1,0 +1,23 @@
+{
+  "name": "yndx-shri-hw-devtools",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SemenovaEkaterina/yndx-shri-hw-devtools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SemenovaEkaterina/yndx-shri-hw-devtools/issues"
+  },
+  "homepage": "https://github.com/SemenovaEkaterina/yndx-shri-hw-devtools#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
