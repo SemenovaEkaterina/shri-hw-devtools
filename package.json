@@ -15,7 +15,7 @@
   },
   "homepage": "https://github.com/SemenovaEkaterina/yndx-shri-hw-devtools#readme",
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   },
   "engines": {
     "node": "12.x"
